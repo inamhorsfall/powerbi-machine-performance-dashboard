@@ -92,7 +92,9 @@ Manufacturing operations dashboard measuring OEE, production output, shift perfo
 
 Data analyst specialising in Power BI dashboard development across HR, marketing, hospitality, and manufacturing sectors. I transform complex datasets into interactive, insight-driven reports that support strategic decision-making.
 
-🔗 [LinkedIn](#) | 🌐 [NovyPro Portfolio](#) | 📧 horsfallinam@gmail.com
+🔗 www.linkedin.com/in/
+horsfall-inam-data-analyst
+ | 📧 horsfallinam@gmail.com
 
 ---
 
