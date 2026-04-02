@@ -98,4 +98,4 @@ horsfall-inam-data-analyst
 
 ---
 
-> **Note:** The data used in this dashboard is fictitious and created solely for portfolio demonstration purposes.
+
